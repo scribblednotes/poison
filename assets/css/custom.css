@@ -1,1 +1,13 @@
 /* Empty css file that users can override in their own /assets/css/custom.css file */
+
+/* Custom tag styles */
+.tags li a {
+    background-color: #FF33FF !important; /* Bright pink background */
+    color: #000000 !important; /* Black text for contrast */
+    font-weight: 500;                     /* Slightly bolder text */
+}
+
+/* Custom reading-time colour */
+.reading-time {
+    color: #FF99FF !important;
+}
